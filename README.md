@@ -8,3 +8,6 @@
 ### Different evaluation
 ![image](https://github.com/WeichaoLiang420/cmpe-295/blob/main/image/Screen%20Shot%202021-10-14%20at%208.48.46%20PM.png)
 ![image](https://github.com/WeichaoLiang420/cmpe-295/blob/main/image/Screen%20Shot%202021-10-14%20at%208.48.40%20PM.png)
+#### Different evaluetions include TruePositives,FalsePositives,TrueNegatives, FalseNegatives, BinaryAccuracy, Precision and recall.
+#### It is more straightforward to see the model training situation, we can see from the photos that all of them have the vonverge trending,
+#### but due to the ephoch limit, the results are not so clearly so far.
